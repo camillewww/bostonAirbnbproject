@@ -1,1 +1,2 @@
-# bostonAirbnbproject
+# Boston Airbnb Project
+Airbnb is known as an online platform enabling people to rent or lease lodgings for a short term. Established in 2008, Airbnb now has over 150 million of users worldwide. Boston, known for its inhospitable rents pricing and hotel prices, is growing into a popular place for Airbnb hosts. While raising concerns towards unregulated Airbnb listings and the negative effect on the local housing market, Airbnb brings convenience to travelers with limited budgets and allows hosts to earn profits while their houses are vacated. 
