@@ -9,9 +9,13 @@ For this project, I am interested in studying the effects of geographies, satisf
 
 
 In this study, I am hoping to answer the below questions:
+              
               1. Does geographies of the listings affect ratings? What about crime rates?
+              
               2. Do higher prices tend to have higher ratings?
+              
               3. To obtain high ratings(over 4 points), what are the requirements of the listing?
+              
               4. Are the ratings effective in indicating different levels of listed features?
 
 For detailed report, please check the Airbnb.pdf here 
